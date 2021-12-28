@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppWithTransferAndroid</string>
+    <string name="input_name">Ваше имя:</string>
+    <string name="back">Назад</string>
+    <string name="first_name">Введите ваше имя:</string>
+    <string name="go_to_activity">Go to Activity</string>
+</resources>
